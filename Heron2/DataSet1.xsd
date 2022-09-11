@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="HeronConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HeronConnectionString (MySettings)" PropertyReference="ApplicationSettings.Heron2.My.MySettings.GlobalReference.Default.HeronConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ConsultafechaTableAdapter" GeneratorDataComponentClassName="ConsultafechaTableAdapter" Name="Consultafecha" UserDataComponentName="ConsultafechaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="HeronConnectionString (MySettings)" DbObjectName="Consultafecha" DbObjectType="Function" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT * FROM Consultafecha</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nom_cliente" DataSetColumn="nom_cliente" />
+              <Mapping SourceColumn="fecha_llegada" DataSetColumn="fecha_llegada" />
+              <Mapping SourceColumn="fecha_recepcion" DataSetColumn="fecha_recepcion" />
+              <Mapping SourceColumn="id_instr_cliente" DataSetColumn="id_instr_cliente" />
+              <Mapping SourceColumn="estado_instrumento" DataSetColumn="estado_instrumento" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Consultafecha" msprop:Generator_UserTableName="Consultafecha" msprop:Generator_RowDeletedName="ConsultafechaRowDeleted" msprop:Generator_TableClassName="ConsultafechaDataTable" msprop:Generator_RowChangedName="ConsultafechaRowChanged" msprop:Generator_RowClassName="ConsultafechaRow" msprop:Generator_RowChangingName="ConsultafechaRowChanging" msprop:Generator_RowEvArgName="ConsultafechaRowChangeEvent" msprop:Generator_RowEvHandlerName="ConsultafechaRowChangeEventHandler" msprop:Generator_TablePropName="Consultafecha" msprop:Generator_TableVarName="tableConsultafecha" msprop:Generator_RowDeletingName="ConsultafechaRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nom_cliente" msprop:Generator_UserColumnName="nom_cliente" msprop:Generator_ColumnPropNameInRow="nom_cliente" msprop:Generator_ColumnVarNameInTable="columnnom_cliente" msprop:Generator_ColumnPropNameInTable="nom_clienteColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fecha_llegada" msprop:Generator_UserColumnName="fecha_llegada" msprop:Generator_ColumnPropNameInRow="fecha_llegada" msprop:Generator_ColumnVarNameInTable="columnfecha_llegada" msprop:Generator_ColumnPropNameInTable="fecha_llegadaColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fecha_recepcion" msprop:Generator_UserColumnName="fecha_recepcion" msprop:Generator_ColumnPropNameInRow="fecha_recepcion" msprop:Generator_ColumnVarNameInTable="columnfecha_recepcion" msprop:Generator_ColumnPropNameInTable="fecha_recepcionColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_instr_cliente" msprop:Generator_UserColumnName="id_instr_cliente" msprop:Generator_ColumnPropNameInRow="id_instr_cliente" msprop:Generator_ColumnVarNameInTable="columnid_instr_cliente" msprop:Generator_ColumnPropNameInTable="id_instr_clienteColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="estado_instrumento" msprop:Generator_UserColumnName="estado_instrumento" msprop:Generator_ColumnPropNameInRow="estado_instrumento" msprop:Generator_ColumnVarNameInTable="columnestado_instrumento" msprop:Generator_ColumnPropNameInTable="estado_instrumentoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

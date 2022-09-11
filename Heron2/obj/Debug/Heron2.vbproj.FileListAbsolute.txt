@@ -1,0 +1,66 @@
+F:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe
+F:\proyecto\Heron2\Heron2\bin\Debug\Heron2.pdb
+F:\proyecto\Heron2\Heron2\bin\Debug\Heron2.xml
+F:\proyecto\Heron2\Heron2\obj\Debug\ResolveAssemblyReference.cache
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Resources.resources
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.vbproj.GenerateResource.Cache
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.exe
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.xml
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.pdb
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.exe
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.xml
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.pdb
+E:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe
+E:\proyecto\Heron2\Heron2\bin\Debug\Heron2.pdb
+E:\proyecto\Heron2\Heron2\bin\Debug\Heron2.xml
+E:\proyecto\Heron2\Heron2\obj\Debug\ResolveAssemblyReference.cache
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Resources.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.vbproj.GenerateResource.Cache
+E:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe.config
+F:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe.config
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.menu.resources
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Instrumentos.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Instrumentos.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.menu.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.cliente.resources
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.cliente.resources
+F:\proyecto\Heron2\Heron2\bin\Debug\Heron.mdb
+G:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe.config
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.exe
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.xml
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.pdb
+G:\proyecto\Heron2\Heron2\bin\Debug\Heron.mdb
+G:\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe
+G:\proyecto\Heron2\Heron2\bin\Debug\Heron2.pdb
+G:\proyecto\Heron2\Heron2\bin\Debug\Heron2.xml
+G:\proyecto\Heron2\Heron2\obj\Debug\ResolveAssemblyReference.cache
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.cliente.resources
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Instrumentos.resources
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.menu.resources
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Resources.resources
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Recepcion.resources
+G:\proyecto\Heron2\Heron2\obj\Debug\Heron2.vbproj.GenerateResource.Cache
+E:\proyecto\Heron2\Heron2\bin\Debug\Heron.mdb
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Form1.resources
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Recepcion1.resources
+F:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Nota_de_envio1.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Form1.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Nota_de_envio1.resources
+E:\proyecto\Heron2\Heron2\obj\Debug\Heron2.Recepcion1.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe.config
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.exe
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.xml
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.pdb
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\bin\Debug\Heron.mdb
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\bin\Debug\Heron2.exe
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\bin\Debug\Heron2.pdb
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\bin\Debug\Heron2.xml
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.cliente.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.Form1.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.Instrumentos.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.menu.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.Resources.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.Nota_de_envio1.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.Recepcion1.resources
+C:\Users\oso\Desktop\pendrive mio\proyecto\Heron2\Heron2\obj\Debug\Heron2.vbproj.GenerateResource.Cache
